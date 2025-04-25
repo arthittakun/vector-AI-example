@@ -1,0 +1,423 @@
+2025-04-24 16:18:34,745 - INFO - Use pytorch device_name: cpu
+2025-04-24 16:18:34,745 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 16:18:38,433 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 16:18:40,333 - WARNING - <All keys matched successfully>
+2025-04-24 16:18:41,753 - INFO - Use pytorch device_name: cpu
+2025-04-24 16:18:41,754 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 16:18:46,456 - WARNING - <All keys matched successfully>
+2025-04-24 16:19:03,698 - INFO - Starting upload: รู้จักโรคพืช.mp4 (mp4)
+2025-04-24 16:19:03,699 - ERROR - No processor found for file type: mp4
+2025-04-24 16:19:03,699 - ERROR - Failed to upload รู้จักโรคพืช.mp4
+2025-04-24 16:19:16,420 - INFO - Starting upload: รู้จักโรคพืช.mp4 (mp4)
+2025-04-24 16:19:16,421 - ERROR - No processor found for file type: mp4
+2025-04-24 16:19:16,421 - ERROR - Failed to upload รู้จักโรคพืช.mp4
+2025-04-24 16:20:53,143 - INFO - Use pytorch device_name: cpu
+2025-04-24 16:20:53,144 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 16:20:57,895 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 16:20:59,852 - WARNING - <All keys matched successfully>
+2025-04-24 16:21:01,287 - INFO - Use pytorch device_name: cpu
+2025-04-24 16:21:01,287 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 16:21:06,493 - WARNING - <All keys matched successfully>
+2025-04-24 16:21:20,318 - INFO - Use pytorch device_name: cpu
+2025-04-24 16:21:20,318 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 16:21:25,355 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 16:21:27,529 - WARNING - <All keys matched successfully>
+2025-04-24 16:21:28,711 - INFO - Use pytorch device_name: cpu
+2025-04-24 16:21:28,711 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 16:21:34,149 - WARNING - <All keys matched successfully>
+2025-04-24 16:27:38,989 - INFO - Starting upload: รู้จักโรคพืช.mp4 (mp4)
+2025-04-24 16:27:38,990 - ERROR - No processor found for file type: mp4
+2025-04-24 16:27:38,991 - ERROR - Failed to upload รู้จักโรคพืช.mp4
+2025-04-24 16:28:00,803 - INFO - Starting upload: dataset_11_10.csv (csv)
+2025-04-24 16:28:00,804 - INFO - Starting to process dataset_11_10.csv of type csv
+2025-04-24 16:28:01,158 - INFO - Successfully processed 1 chunks from dataset_11_10.csv
+2025-04-24 16:28:01,159 - INFO - Successfully processed dataset_11_10.csv
+2025-04-24 16:28:01,159 - INFO - Successfully uploaded dataset_11_10.csv to vector DB
+2025-04-24 16:28:07,027 - INFO - Starting upload: a.txt (txt)
+2025-04-24 16:28:07,027 - INFO - Starting to process a.txt of type txt
+2025-04-24 16:28:07,545 - INFO - Successfully processed 1 chunks from a.txt
+2025-04-24 16:28:07,545 - INFO - Successfully processed a.txt
+2025-04-24 16:28:07,545 - INFO - Successfully uploaded a.txt to vector DB
+2025-04-24 16:30:58,393 - INFO - Use pytorch device_name: cpu
+2025-04-24 16:30:58,394 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 16:31:03,328 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 16:31:05,530 - WARNING - <All keys matched successfully>
+2025-04-24 16:31:06,720 - INFO - Use pytorch device_name: cpu
+2025-04-24 16:31:06,720 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 16:31:11,329 - WARNING - <All keys matched successfully>
+2025-04-24 16:31:24,524 - INFO - Use pytorch device_name: cpu
+2025-04-24 16:31:24,524 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 16:31:28,470 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 16:31:30,858 - WARNING - <All keys matched successfully>
+2025-04-24 16:31:32,307 - INFO - Use pytorch device_name: cpu
+2025-04-24 16:31:32,307 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 16:31:37,138 - WARNING - <All keys matched successfully>
+2025-04-24 16:31:57,277 - INFO - Starting upload: รู้จักโรคพืช.mp4 (mp4)
+2025-04-24 16:31:57,278 - ERROR - No processor found for file type: mp4
+2025-04-24 16:31:57,278 - ERROR - Failed to upload รู้จักโรคพืช.mp4
+2025-04-24 16:35:54,377 - INFO - Use pytorch device_name: cpu
+2025-04-24 16:35:54,377 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 16:35:58,997 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 16:36:01,052 - WARNING - <All keys matched successfully>
+2025-04-24 16:36:02,228 - INFO - Use pytorch device_name: cpu
+2025-04-24 16:36:02,228 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 16:36:07,139 - WARNING - <All keys matched successfully>
+2025-04-24 16:36:52,778 - INFO - Starting upload: รู้จักโรคพืช.mp4 (mp4)
+2025-04-24 16:36:52,779 - ERROR - No processor found for file type: mp4
+2025-04-24 16:36:52,779 - ERROR - Failed to upload รู้จักโรคพืช.mp4
+2025-04-24 16:37:52,092 - INFO - Use pytorch device_name: cpu
+2025-04-24 16:37:52,092 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 16:37:55,342 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 16:37:57,527 - WARNING - <All keys matched successfully>
+2025-04-24 16:37:58,929 - INFO - Use pytorch device_name: cpu
+2025-04-24 16:37:58,930 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 16:38:03,598 - WARNING - <All keys matched successfully>
+2025-04-24 16:38:25,497 - INFO - Starting upload: รู้จักโรคพืช.mp4 (mp4)
+2025-04-24 16:38:25,498 - INFO - Starting to process รู้จักโรคพืช.mp4 of type mp4
+2025-04-24 16:38:25,518 - ERROR - ffmpeg not found. Please install ffmpeg first.
+2025-04-24 16:38:25,518 - ERROR - Error processing video file รู้จักโรคพืช.mp4: ffmpeg is not installed. Please install ffmpeg first.
+2025-04-24 16:38:25,520 - ERROR - Processing failed for รู้จักโรคพืช.mp4
+2025-04-24 16:38:25,521 - ERROR - Failed to upload รู้จักโรคพืช.mp4
+2025-04-24 16:42:25,312 - INFO - Use pytorch device_name: cpu
+2025-04-24 16:42:25,312 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 16:42:28,495 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 16:42:30,433 - WARNING - <All keys matched successfully>
+2025-04-24 16:42:31,865 - INFO - Use pytorch device_name: cpu
+2025-04-24 16:42:31,866 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 16:42:36,606 - WARNING - <All keys matched successfully>
+2025-04-24 16:42:49,397 - INFO - Use pytorch device_name: cpu
+2025-04-24 16:42:49,397 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 16:42:53,573 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 16:42:55,543 - WARNING - <All keys matched successfully>
+2025-04-24 16:42:56,940 - INFO - Use pytorch device_name: cpu
+2025-04-24 16:42:56,940 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 16:43:01,773 - WARNING - <All keys matched successfully>
+2025-04-24 17:02:15,803 - INFO - Starting upload: รู้จักโรคพืช.mp4 (mp4)
+2025-04-24 17:02:15,804 - INFO - Starting to process รู้จักโรคพืช.mp4 of type mp4
+2025-04-24 17:02:15,822 - ERROR - ffmpeg not found. Please install ffmpeg first.
+2025-04-24 17:02:15,823 - ERROR - Error processing video file รู้จักโรคพืช.mp4: ffmpeg is not installed. Please install ffmpeg first.
+2025-04-24 17:02:15,825 - ERROR - Processing failed for รู้จักโรคพืช.mp4
+2025-04-24 17:02:15,825 - ERROR - Failed to upload รู้จักโรคพืช.mp4
+2025-04-24 17:03:13,145 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:03:13,145 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:03:17,793 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 17:03:19,829 - WARNING - <All keys matched successfully>
+2025-04-24 17:03:21,205 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:03:21,205 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:03:26,221 - WARNING - <All keys matched successfully>
+2025-04-24 17:03:40,034 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:03:40,034 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:03:44,491 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 17:03:46,685 - WARNING - <All keys matched successfully>
+2025-04-24 17:03:48,083 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:03:48,084 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:03:52,968 - WARNING - <All keys matched successfully>
+2025-04-24 17:05:16,975 - INFO - Starting upload: รู้จักโรคพืช.mp4 (mp4)
+2025-04-24 17:05:16,976 - INFO - Starting to process รู้จักโรคพืช.mp4 of type mp4
+2025-04-24 17:05:17,066 - ERROR - ffmpeg not found. Please install ffmpeg first.
+2025-04-24 17:05:17,066 - ERROR - Error processing video file รู้จักโรคพืช.mp4: ffmpeg is not installed. Please install ffmpeg first.
+2025-04-24 17:05:17,069 - ERROR - Processing failed for รู้จักโรคพืช.mp4
+2025-04-24 17:05:17,069 - ERROR - Failed to upload รู้จักโรคพืช.mp4
+2025-04-24 17:05:56,671 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:05:56,671 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:06:01,492 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 17:06:03,973 - WARNING - <All keys matched successfully>
+2025-04-24 17:06:05,167 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:06:05,168 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:06:10,374 - WARNING - <All keys matched successfully>
+2025-04-24 17:06:28,354 - INFO - Starting upload: รู้จักโรคพืช.mp4 (mp4)
+2025-04-24 17:06:28,355 - INFO - Starting to process รู้จักโรคพืช.mp4 of type mp4
+2025-04-24 17:06:28,374 - ERROR - ffmpeg not found. Please install ffmpeg first.
+2025-04-24 17:06:28,374 - ERROR - Error processing video file รู้จักโรคพืช.mp4: ffmpeg is not installed. Please install ffmpeg first.
+2025-04-24 17:06:28,376 - ERROR - Processing failed for รู้จักโรคพืช.mp4
+2025-04-24 17:06:28,377 - ERROR - Failed to upload รู้จักโรคพืช.mp4
+2025-04-24 17:08:28,930 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:08:28,930 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:08:32,132 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 17:08:34,068 - WARNING - <All keys matched successfully>
+2025-04-24 17:08:35,237 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:08:35,238 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:08:40,018 - WARNING - <All keys matched successfully>
+2025-04-24 17:24:10,868 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:24:10,869 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:24:15,038 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 17:24:17,066 - WARNING - <All keys matched successfully>
+2025-04-24 17:24:18,216 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:24:18,216 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:24:24,067 - WARNING - <All keys matched successfully>
+2025-04-24 17:26:16,249 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:26:16,249 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:26:20,643 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 17:26:23,075 - WARNING - <All keys matched successfully>
+2025-04-24 17:26:24,269 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:26:24,270 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:26:29,169 - WARNING - <All keys matched successfully>
+2025-04-24 17:29:42,164 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:29:42,165 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:29:47,388 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 17:29:49,319 - WARNING - <All keys matched successfully>
+2025-04-24 17:29:50,706 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:29:50,706 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:29:55,328 - WARNING - <All keys matched successfully>
+2025-04-24 17:43:41,190 - INFO - Starting upload: รู้จักโรคพืช.mp4 (mp4)
+2025-04-24 17:43:41,191 - INFO - Starting to process รู้จักโรคพืช.mp4 of type mp4
+2025-04-24 17:46:00,665 - INFO - Successfully processed 1 chunks from รู้จักโรคพืช.mp4
+2025-04-24 17:46:00,668 - INFO - Successfully processed รู้จักโรคพืช.mp4
+2025-04-24 17:46:00,669 - INFO - Successfully uploaded รู้จักโรคพืช.mp4 to vector DB
+2025-04-24 17:48:27,541 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:48:27,541 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:48:32,270 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 17:48:34,176 - WARNING - <All keys matched successfully>
+2025-04-24 17:48:35,567 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:48:35,568 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:48:40,162 - WARNING - <All keys matched successfully>
+2025-04-24 17:48:52,578 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:48:52,579 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:48:56,724 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 17:48:58,920 - WARNING - <All keys matched successfully>
+2025-04-24 17:49:00,302 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:49:00,303 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:49:05,082 - WARNING - <All keys matched successfully>
+2025-04-24 17:49:39,803 - INFO - Starting upload: รู้จักโรคพืช.mp4 (mp4)
+2025-04-24 17:49:39,803 - INFO - Starting to process รู้จักโรคพืช.mp4 of type mp4
+2025-04-24 17:52:36,661 - INFO - Successfully processed 1 chunks from รู้จักโรคพืช.mp4
+2025-04-24 17:52:36,666 - INFO - Successfully processed รู้จักโรคพืช.mp4
+2025-04-24 17:52:36,666 - INFO - Successfully uploaded รู้จักโรคพืช.mp4 to vector DB
+2025-04-24 17:54:04,404 - INFO - Starting upload: แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4 (mp4)
+2025-04-24 17:54:04,404 - INFO - Starting to process แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4 of type mp4
+2025-04-24 17:54:43,621 - INFO - Successfully processed 1 chunks from แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4
+2025-04-24 17:54:43,623 - INFO - Successfully processed แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4
+2025-04-24 17:54:43,623 - INFO - Successfully uploaded แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4 to vector DB
+2025-04-24 17:57:23,363 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:57:23,364 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:57:28,700 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 17:57:30,665 - WARNING - <All keys matched successfully>
+2025-04-24 17:57:32,100 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:57:32,101 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:57:37,267 - WARNING - <All keys matched successfully>
+2025-04-24 17:58:44,561 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:58:44,561 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:58:49,737 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 17:58:51,639 - WARNING - <All keys matched successfully>
+2025-04-24 17:58:52,887 - INFO - Use pytorch device_name: cpu
+2025-04-24 17:58:52,887 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 17:58:57,659 - WARNING - <All keys matched successfully>
+2025-04-24 18:01:48,283 - INFO - Starting upload: index.html (html)
+2025-04-24 18:01:48,283 - INFO - Starting to process index.html of type html
+2025-04-24 18:01:48,675 - INFO - Successfully processed 1 chunks from index.html
+2025-04-24 18:01:48,675 - INFO - Successfully processed index.html
+2025-04-24 18:01:48,676 - INFO - Successfully uploaded index.html to vector DB
+2025-04-24 18:02:34,247 - INFO - Starting upload: แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4 (mp4)
+2025-04-24 18:02:34,247 - INFO - Starting to process แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4 of type mp4
+2025-04-24 18:02:34,253 - ERROR - Error processing video file แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4: type object 'MediaProcessor' has no attribute 'check_ffmpeg'
+2025-04-24 18:02:34,255 - ERROR - Processing failed for แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4
+2025-04-24 18:02:34,255 - ERROR - Failed to upload แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4
+2025-04-24 18:02:48,248 - INFO - Starting upload: แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4 (mp4)
+2025-04-24 18:02:48,248 - INFO - Starting to process แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4 of type mp4
+2025-04-24 18:02:48,254 - ERROR - Error processing video file แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4: type object 'MediaProcessor' has no attribute 'check_ffmpeg'
+2025-04-24 18:02:48,255 - ERROR - Processing failed for แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4
+2025-04-24 18:02:48,256 - ERROR - Failed to upload แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4
+2025-04-24 18:03:36,319 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:03:36,320 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:03:41,438 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 18:03:43,392 - WARNING - <All keys matched successfully>
+2025-04-24 18:03:44,562 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:03:44,563 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:03:49,551 - WARNING - <All keys matched successfully>
+2025-04-24 18:03:51,729 - INFO - Starting upload: แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4 (mp4)
+2025-04-24 18:03:51,730 - INFO - Starting to process แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4 of type mp4
+2025-04-24 18:05:09,978 - INFO - Successfully processed 1 chunks from แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4
+2025-04-24 18:05:09,980 - INFO - Successfully processed แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4
+2025-04-24 18:05:09,980 - INFO - Successfully uploaded แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4 to vector DB
+2025-04-24 18:06:23,118 - INFO - Starting upload: แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4 (mp4)
+2025-04-24 18:06:23,119 - INFO - Starting to process แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4 of type mp4
+2025-04-24 18:07:04,318 - INFO - Successfully processed 1 chunks from แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4
+2025-04-24 18:07:04,320 - INFO - Successfully processed แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4
+2025-04-24 18:07:04,321 - INFO - Successfully uploaded แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4 to vector DB
+2025-04-24 18:11:45,752 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:11:45,752 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:11:49,985 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 18:11:51,895 - WARNING - <All keys matched successfully>
+2025-04-24 18:11:53,349 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:11:53,350 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:11:58,130 - WARNING - <All keys matched successfully>
+2025-04-24 18:14:00,842 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:14:00,842 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:14:04,950 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 18:14:06,862 - WARNING - <All keys matched successfully>
+2025-04-24 18:14:08,018 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:14:08,018 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:14:12,708 - WARNING - <All keys matched successfully>
+2025-04-24 18:15:14,983 - INFO - Starting upload: แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4 (mp4)
+2025-04-24 18:15:14,984 - INFO - Starting to process แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4 of type mp4
+2025-04-24 18:16:11,796 - INFO - Successfully processed 1 chunks from แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4
+2025-04-24 18:16:11,798 - INFO - Successfully processed แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4
+2025-04-24 18:16:11,799 - INFO - Successfully uploaded แนะนำแขนงวิชาโรคพืช ในหลักสูตร วท.บ.(เกษตรศาสตร์)  คณะเกษตร กำแพงแสน มหาวิทยาลัยเกษตรศาสตร์.mp4 to vector DB
+2025-04-24 18:18:39,579 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:18:39,579 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:18:43,629 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 18:18:45,570 - WARNING - <All keys matched successfully>
+2025-04-24 18:18:46,966 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:18:46,967 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:18:51,769 - WARNING - <All keys matched successfully>
+2025-04-24 18:22:13,144 - INFO - AFC is enabled with max remote calls: 10.
+2025-04-24 18:22:32,309 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 200 OK"
+2025-04-24 18:22:32,312 - INFO - AFC remote call 1 is done.
+2025-04-24 18:23:38,993 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:23:38,994 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:23:43,721 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 18:23:45,663 - WARNING - <All keys matched successfully>
+2025-04-24 18:23:47,059 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:23:47,060 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:23:52,228 - WARNING - <All keys matched successfully>
+2025-04-24 18:24:19,989 - INFO - AFC is enabled with max remote calls: 10.
+2025-04-24 18:24:39,198 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 200 OK"
+2025-04-24 18:24:39,199 - INFO - AFC remote call 1 is done.
+2025-04-24 18:25:51,344 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:25:51,345 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:25:54,952 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 18:25:56,861 - WARNING - <All keys matched successfully>
+2025-04-24 18:25:58,062 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:25:58,062 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:26:02,742 - WARNING - <All keys matched successfully>
+2025-04-24 18:26:03,768 - INFO - AFC is enabled with max remote calls: 10.
+2025-04-24 18:26:04,765 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 200 OK"
+2025-04-24 18:26:04,766 - INFO - AFC remote call 1 is done.
+2025-04-24 18:26:23,782 - INFO - AFC is enabled with max remote calls: 10.
+2025-04-24 18:26:34,514 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 200 OK"
+2025-04-24 18:26:34,521 - INFO - AFC remote call 1 is done.
+2025-04-24 18:26:45,000 - INFO - AFC is enabled with max remote calls: 10.
+2025-04-24 18:26:46,990 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 200 OK"
+2025-04-24 18:26:46,990 - INFO - AFC remote call 1 is done.
+2025-04-24 18:29:05,594 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:29:05,595 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:29:09,729 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 18:29:11,635 - WARNING - <All keys matched successfully>
+2025-04-24 18:29:13,057 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:29:13,057 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:29:19,129 - WARNING - <All keys matched successfully>
+2025-04-24 18:34:20,665 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:34:20,665 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:34:25,303 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 18:34:27,308 - WARNING - <All keys matched successfully>
+2025-04-24 18:34:28,806 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:34:28,807 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:34:33,447 - WARNING - <All keys matched successfully>
+2025-04-24 18:35:36,627 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:35:36,627 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:35:39,806 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 18:35:41,697 - WARNING - <All keys matched successfully>
+2025-04-24 18:35:42,649 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:35:42,649 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:35:47,365 - WARNING - <All keys matched successfully>
+2025-04-24 18:35:48,547 - INFO - AFC is enabled with max remote calls: 10.
+2025-04-24 18:37:30,531 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:37:30,531 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:37:34,151 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 18:37:36,556 - WARNING - <All keys matched successfully>
+2025-04-24 18:37:37,931 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:37:37,931 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:37:42,563 - WARNING - <All keys matched successfully>
+2025-04-24 18:39:10,410 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:39:10,411 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:39:15,455 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 18:39:17,354 - WARNING - <All keys matched successfully>
+2025-04-24 18:39:18,754 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:39:18,754 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:39:23,377 - WARNING - <All keys matched successfully>
+2025-04-24 18:40:01,939 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:40:01,939 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:40:05,084 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 18:40:06,983 - WARNING - <All keys matched successfully>
+2025-04-24 18:40:08,168 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:40:08,169 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:40:12,806 - WARNING - <All keys matched successfully>
+2025-04-24 18:41:21,295 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:41:21,296 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:41:25,464 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 18:41:27,383 - WARNING - <All keys matched successfully>
+2025-04-24 18:41:29,064 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:41:29,065 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:41:33,689 - WARNING - <All keys matched successfully>
+2025-04-24 18:42:36,838 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:42:36,838 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:42:42,199 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 18:42:44,090 - WARNING - <All keys matched successfully>
+2025-04-24 18:42:45,464 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:42:45,465 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:42:50,213 - WARNING - <All keys matched successfully>
+2025-04-24 18:57:07,737 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:57:07,737 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:57:12,935 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 18:57:15,097 - WARNING - <All keys matched successfully>
+2025-04-24 18:57:16,345 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:57:16,345 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:57:21,149 - WARNING - <All keys matched successfully>
+2025-04-24 18:58:28,969 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:58:28,970 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:58:33,915 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 18:58:35,821 - WARNING - <All keys matched successfully>
+2025-04-24 18:58:37,243 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:58:37,243 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:58:42,076 - WARNING - <All keys matched successfully>
+2025-04-24 18:58:54,708 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:58:54,708 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:58:59,691 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 18:59:01,879 - WARNING - <All keys matched successfully>
+2025-04-24 18:59:03,066 - INFO - Use pytorch device_name: cpu
+2025-04-24 18:59:03,066 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 18:59:07,990 - WARNING - <All keys matched successfully>
+2025-04-24 19:00:43,101 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:00:43,102 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 19:00:48,312 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 19:00:50,326 - WARNING - <All keys matched successfully>
+2025-04-24 19:00:51,591 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:00:51,591 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 19:00:56,952 - WARNING - <All keys matched successfully>
+2025-04-24 19:04:55,708 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:04:55,708 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 19:04:58,999 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 19:05:00,900 - WARNING - <All keys matched successfully>
+2025-04-24 19:05:02,300 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:05:02,300 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 19:05:06,999 - WARNING - <All keys matched successfully>
+2025-04-24 19:08:14,619 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:08:14,620 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 19:08:19,712 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 19:08:21,612 - WARNING - <All keys matched successfully>
+2025-04-24 19:08:22,805 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:08:22,805 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 19:08:27,934 - WARNING - <All keys matched successfully>
+2025-04-24 19:09:45,797 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:09:45,798 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 19:09:51,019 - WARNING - !!!!!!!!!!!!megablocks not available, using torch.matmul instead
+2025-04-24 19:09:52,947 - WARNING - <All keys matched successfully>
+2025-04-24 19:09:54,358 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:09:54,358 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 19:10:00,448 - WARNING - <All keys matched successfully>
+2025-04-24 19:15:55,842 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:15:55,842 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 19:16:20,701 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:16:20,701 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 19:16:25,626 - WARNING - <All keys matched successfully>
+2025-04-24 19:16:27,015 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:16:27,015 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 19:16:31,765 - WARNING - <All keys matched successfully>
+2025-04-24 19:19:35,780 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:19:35,780 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 19:19:40,369 - WARNING - <All keys matched successfully>
+2025-04-24 19:19:41,761 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:19:41,761 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-24 19:19:46,411 - WARNING - <All keys matched successfully>
+2025-04-25 09:37:58,992 - INFO - Use pytorch device_name: cpu
+2025-04-25 09:37:58,993 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-25 09:38:03,680 - WARNING - <All keys matched successfully>
+2025-04-25 09:38:04,778 - INFO - Use pytorch device_name: cpu
+2025-04-25 09:38:04,779 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-25 09:38:10,811 - WARNING - <All keys matched successfully>
+2025-04-25 09:38:29,409 - INFO - Use pytorch device_name: cpu
+2025-04-25 09:38:29,409 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-25 09:38:34,055 - WARNING - <All keys matched successfully>
+2025-04-25 09:38:35,212 - INFO - Use pytorch device_name: cpu
+2025-04-25 09:38:35,212 - INFO - Load pretrained SentenceTransformer: nomic-ai/nomic-embed-text-v1
+2025-04-25 09:38:39,928 - WARNING - <All keys matched successfully>
