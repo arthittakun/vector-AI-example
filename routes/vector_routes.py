@@ -31,7 +31,7 @@ class DocumentUpdate(BaseModel):
 class SearchQuery(BaseModel):
     query: str
     k: int = 3
-
+    
 @router.post(
     "/upload/file",
     summary="อัปโหลดไฟล์เข้าระบบ Vector DB",

@@ -61,14 +61,14 @@ async function sendMessage() {
 
     const loadingMessage = addLoadingMessage();
     const payload = {
-        text: text || undefined,
-        image_base64: imageBase64 || undefined,
-        use_agent: agentToggle.checked,
+        message: text || "",
+        images: imageBase64 ? [imageBase64] : [],
+        agent: agentToggle.checked,
         stream: true
     };
 
     try {
-        const response = await fetch('https://llm.pmnd.online/api/chat/chat', {
+        const response = await fetch('http://localhost:8000/chat/chat', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
@@ -89,13 +89,19 @@ async function sendMessage() {
 
             const chunk = decoder.decode(value);
             try {
-                // Split chunk into lines and process each data line
                 const lines = chunk.split('\n').filter(line => line.trim());
                 for (const line of lines) {
-                    if (line.startsWith('data: ')) {
-                        const content = line.slice(6); // Remove "data: " prefix
-                        messageElement.innerHTML += content;
-                        messageElement.scrollIntoView({ behavior: 'smooth' });
+                    try {
+                        const jsonData = JSON.parse(line);
+                        if (jsonData?.message?.content !== undefined) {
+                            const content = jsonData.message.content;
+                            if (content) { // Only append non-empty content
+                                messageElement.innerHTML += content;
+                                messageElement.scrollIntoView({ behavior: 'smooth' });
+                            }
+                        }
+                    } catch (jsonError) {
+                        console.warn('Failed to parse JSON:', line, jsonError);
                     }
                 }
             } catch (e) {
